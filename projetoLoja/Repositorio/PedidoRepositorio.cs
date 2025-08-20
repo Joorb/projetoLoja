@@ -2,7 +2,7 @@
 
 namespace projetoLoja.Repositorio
 {
-    public class Pedido : Controller
+    public class PedidoRepositorio : Controller
     {
         public IActionResult Index()
         {
